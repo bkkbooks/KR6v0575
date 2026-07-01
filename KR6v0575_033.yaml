@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0575/tx/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在留滬日僑歡送會答詞十四年十月在上海日本俱樂部講中日兩國佛教徒與各地佛教徒國雖有別佛教是同一由教理上立言一佛法教藏發原於釋迦在菩提場之大覺中日佛教理無二致二由歷史上推論日本佛教傳自吾國近五十年來日本佛教同胞忙於對付維新後之摧殘中國僧尼每固執封蔽以自豪今者日本之難既除中國之封蔽已開中日佛教同袍應相砥礪去歲承貴國同袍之光臨今秋又蒙大會之盛招以同人之不學無術實有負諸君厚望然而謀中日之親善者即所以發揚佛化而救世界而佛化實有謀中日親善及救世界之可能吾人此行就教貴國以求推行佛教於世界之方針冀與貴國佛教徒同負宏揚佛教於世界之責任滿智記見海刊六卷十二期
+  hash: sha256:76459d232e1cab477e80442f7a33e898908979e8b1bd1d90728762e18af1c7f4
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0575_TX_033-juan-start, juan_n: '033'}
+metadata:
+  title: 太虛大師全書．第十八編　講演
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX27/TX27n0018.xml
+    old_id: TX27n0018
+hash: sha256:2470b8137472589912582052f8d964e0c3305422f0a13afd400ee02a2b02f9ff

@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR6v0575/TX/v1/markers/36
+seq: 36
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR6v0575_TX_036-b150a, ed: TX, 'n': b150a, source_xml_id: TX27.0018.b150a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0575_TX_036-b150a01, ed: TX, 'n': b150a01}
+  - {type: 其他, offset: 0, content: 應少女少年團之歡迎會答詞, id: KR6v0575_TX_036-mulu-1, level: '1'}
+  - {type: line-break, offset: 12, content: '', id: KR6v0575_TX_036-b150a02, ed: TX, 'n': b150a02}
+  - {type: xml-element, offset: 12, content: '', id: KR6v0575_TX_036-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 12, content: —, id: KR6v0575_TX_036-bkkpn1}
+  - {type: punctuation, offset: 12, content: —, id: KR6v0575_TX_036-bkkpn2}
+  - {type: punctuation, offset: 24, content: —, id: KR6v0575_TX_036-bkkpn3}
+  - {type: punctuation, offset: 24, content: —, id: KR6v0575_TX_036-bkkpn4}
+  - {type: xml-element, offset: 24, content: '', id: KR6v0575_TX_036-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  - {type: line-break, offset: 24, content: '', id: KR6v0575_TX_036-b150a03, ed: TX, 'n': b150a03}
+  - {type: xml-element, offset: 24, content: '', id: pTX27pb150a0301, name: p, role: open, attrs: {'xml:id': pTX27pb150a0301, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 28, content: ，, id: KR6v0575_TX_036-bkkpn5}
+  - {type: punctuation, offset: 36, content: ，, id: KR6v0575_TX_036-bkkpn6}
+  - {type: punctuation, offset: 45, content: 。, id: KR6v0575_TX_036-bkkpn7}
+  - {type: punctuation, offset: 52, content: ，, id: KR6v0575_TX_036-bkkpn8}
+  - {type: line-break, offset: 55, content: '', id: KR6v0575_TX_036-b150a04, ed: TX, 'n': b150a04}
+  - {type: punctuation, offset: 58, content: ，, id: KR6v0575_TX_036-bkkpn9}
+  - {type: punctuation, offset: 65, content: ，, id: KR6v0575_TX_036-bkkpn10}
+  - {type: punctuation, offset: 75, content: 。, id: KR6v0575_TX_036-bkkpn11}
+  - {type: punctuation, offset: 83, content: ，, id: KR6v0575_TX_036-bkkpn12}
+  - {type: line-break, offset: 88, content: '', id: KR6v0575_TX_036-b150a05, ed: TX, 'n': b150a05}
+  - {type: punctuation, offset: 92, content: ，, id: KR6v0575_TX_036-bkkpn13}
+  - {type: punctuation, offset: 100, content: ，, id: KR6v0575_TX_036-bkkpn14}
+  - {type: punctuation, offset: 106, content: ，, id: KR6v0575_TX_036-bkkpn15}
+  - {type: punctuation, offset: 120, content: ！, id: KR6v0575_TX_036-bkkpn16}
+  - {type: line-break, offset: 121, content: '', id: KR6v0575_TX_036-b150a06, ed: TX, 'n': b150a06}
+  - {type: punctuation, offset: 130, content: ，, id: KR6v0575_TX_036-bkkpn17}
+  - {type: punctuation, offset: 143, content: 。, id: KR6v0575_TX_036-bkkpn18}
+  - {type: line-break, offset: 155, content: '', id: KR6v0575_TX_036-b150a07, ed: TX, 'n': b150a07}
+  - {type: punctuation, offset: 156, content: ，, id: KR6v0575_TX_036-bkkpn19}
+  - {type: punctuation, offset: 164, content: 。, id: KR6v0575_TX_036-bkkpn20}
+  - {type: punctuation, offset: 171, content: ，, id: KR6v0575_TX_036-bkkpn21}
+  - {type: punctuation, offset: 175, content: ！, id: KR6v0575_TX_036-bkkpn22}
+  - {type: xml-element, offset: 175, content: '', id: pTX27pb150a0301_end, name: p, role: close, attrs: {'xml:id': pTX27pb150a0301, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 175, content: '', id: KR6v0575_TX_036-bkkxmlele3, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 175, content: （, id: KR6v0575_TX_036-bkkpn23}
+  - {type: punctuation, offset: 178, content: ）, id: KR6v0575_TX_036-bkkpn24}
+  - {type: punctuation, offset: 178, content: （, id: KR6v0575_TX_036-bkkpn25}
+  - {type: line-break, offset: 185, content: '', id: KR6v0575_TX_036-b150a08, ed: TX, 'n': b150a08}
+  - {type: punctuation, offset: 186, content: ）, id: KR6v0575_TX_036-bkkpn26}
+  - {type: xml-element, offset: 186, content: '', id: KR6v0575_TX_036-bkkxmlele4, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:6d4ffa9e109c209188c17bdae2478be2f86bb7d28de5466cfb0c08cbd89dfa64

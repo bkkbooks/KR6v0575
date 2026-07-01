@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0575/tx/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 佛教與吾人之關係八年十月在尚賢堂講佛教與吾人之關係一者佛法是人人好覺悟好平等好自由好普濟之共通本性故二者人人不好迷信邪信好正信悟信惟佛教能令人人悟自心之佛而信自心之佛教絕無一點迷信邪信而得極圓滿之正信悟信故三者佛教能滿足人心之宗教上要求故四者佛教能滿人心學理上之要求故五者人人皆欲於世界人生兩問題得究竟之解決惟佛教能得究竟之解決故見覺社叢書二期附註本文自覺社之佛教集講演會中節出
+  hash: sha256:276dae613078b482f3f5a2ff8d82d39fcf05bab2c874a994d87d88cfde14a3f4
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0575_TX_006-juan-start, juan_n: '006'}
+metadata:
+  title: 太虛大師全書．第十八編　講演
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX27/TX27n0018.xml
+    old_id: TX27n0018
+hash: sha256:de250a8798862a19343bce02709ce6bfe0346cacc516c3feb2c6be02bc6f6751

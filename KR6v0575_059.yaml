@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0575/tx/v1/juan/59
+seq: 59
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在中日佛徒聯誼會致詞十七年一月在上海講頻年盡力佛化實感佛教有與各國聯合共進之必要而東西各國惟日本能保存各國輸入之佛學又能融貫西洋哲學之所長深望中日兩國從事於佛化之共作俾成為東方最高之文化現在與玉居士等創辦寰球圖書館期萃集東西各國之佛教圖書為世界佛理之新結集現已粗具規模深盼中外諸君協力扶助見海刊九卷一期
+  hash: sha256:37b3be913b7c096a4ce0a155bff6fdf1e60af1445cfa4f3dde368b6880925d44
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0575_TX_059-juan-start, juan_n: 059}
+metadata:
+  title: 太虛大師全書．第十八編　講演
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX27/TX27n0018.xml
+    old_id: TX27n0018
+hash: sha256:4044871ba9e101b224613aa56257c9f848ce9e27c0cc7979d0bbdc2092ded843

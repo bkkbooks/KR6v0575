@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0575/tx/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歡迎蕭督軍致謝詞十二年三月在武昌佛學院講推原佛學院之發起固非為各人專作修行自利之計者觀人世之無安憫眾生之在苦謀一救世救人心之良好方法克以貫徹始終而實驗其真理者捨佛學外了無別法之可從諸院董於是乃創立斯院而辦此挽救人心最稱完善之佛教事業所謂從大悲心中之所流出者是也然佛之無上正覺亦從大悲心起即從大悲心發出救人救世之意願向上精進修習不已至成佛之際遂完具救人救世之資格其能力可以發揮無盡故今日各學人之當力體督軍之訓辭以救國救世之大悲心為本堅定其志趣展發其智能孜孜用功向學庶不負督軍降臨本院之盛意及院護院董殷殷垂望之本懷諸學人宜永誌而無忘焉見海刊四卷四期附註本文自蕭督軍蒞佛學院記節出
+  hash: sha256:f05cb3832b831f895289d0beec9fccd0788608f5d31b8069ffc801e5abb8a14f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0575_TX_020-juan-start, juan_n: '020'}
+metadata:
+  title: 太虛大師全書．第十八編　講演
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX27/TX27n0018.xml
+    old_id: TX27n0018
+hash: sha256:fc27484f6c808c471a7ce9b022978b3d4f9497ea3766b92d9cf8d63d616471d2

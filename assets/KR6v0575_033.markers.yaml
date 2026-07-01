@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0575/bkk/v1/markers/33
+seq: 33
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 在留滬日僑歡送會答詞, id: KR6v0575_TX_033-mulu-1, level: '1'}
+  back: []
+hash: sha256:e36f7f643e69522fb64ff99281d748ef9f0884397265c8cf49085e13853277cd

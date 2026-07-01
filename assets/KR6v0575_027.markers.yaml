@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0575/bkk/v1/markers/27
+seq: 27
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 孝順之道是為佛法, id: KR6v0575_TX_027-mulu-1, level: '1'}
+  back: []
+hash: sha256:93c71f32d7343f8bf2fe09bd149626afce3f5c757e4d3a19060f4338a539b6fb

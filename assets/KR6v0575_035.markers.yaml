@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0575/bkk/v1/markers/35
+seq: 35
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 應日本關係中華民國之五團體歡迎會致詞, id: KR6v0575_TX_035-mulu-1, level: '1'}
+  back: []
+hash: sha256:5f7802dd427bb5e155ec93dab3a123d2d5b07125dfb3e45ca8b3f4f1f5bbe037

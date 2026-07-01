@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0575/tx/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應日本關係中華民國之五團體歡迎會致詞十四年十一月在日本帝國俱樂部講鄙人七年前曾到貴國一次當時見全國所充滿者皆是物質的文明前次之震災雖然物質奇巧的反感然亦為同業所招之報應為冀免將來的災危覺有施行佛化之必要遂有東方精神文化復活之氣象至謀中日親善實為兩國國民應有之要事以同文同種之國實不應有此互相猜忌之心今後以佛法謀中日之親善實為得計切盼兩國人士之努力精進滿智記見海刊六卷十二期
+  hash: sha256:7af902ba2503203cbba624bd3edaef661f52391d7dfb3624071cd9172a1e9668
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0575_TX_035-juan-start, juan_n: '035'}
+metadata:
+  title: 太虛大師全書．第十八編　講演
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX27/TX27n0018.xml
+    old_id: TX27n0018
+hash: sha256:124a8df71782305444810c21650041860fbfe9f6758f39499cb6d8fbd77f2dc2

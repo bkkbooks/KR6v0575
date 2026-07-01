@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0575/tx/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孝順之道是為佛法在漢口佛教會講一孝順父母以身命之所從生故二孝順師長以德慧之所從起故三孝順業因以依正報體之所從成故四孝順聖教以真理正智之所從得故五孝順法性以世出世間皆依為本元故六孝順佛心以世出世間皆依為主導故見海刊五卷三期
+  hash: sha256:ddf92ffdbc7a1c81fef45cb23ab7a4dde934af70a755fdfc9d1672608075e29e
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0575_TX_027-juan-start, juan_n: '027'}
+metadata:
+  title: 太虛大師全書．第十八編　講演
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX27/TX27n0018.xml
+    old_id: TX27n0018
+hash: sha256:5301911888c76919a2236727770f3556078a10af3b1ccbac97357dee839cc576

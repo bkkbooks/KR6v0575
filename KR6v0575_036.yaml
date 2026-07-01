@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0575/tx/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應少女少年團之歡迎會答詞十四年十一月在日本東京講二十世紀為人智極進化之期又為道德極淪亡之時當諸君之青年時有如一年之春能有良好的培植將來即能得美滿的結果諸君于此幼年時間得受最高之佛化教育而為道德上之養成將來投身社會必能從佛教之道德的軌道上進行今日觀諸君之活潑精神即為將來佛法普被全球之預兆吾敢武斷二十年後的日本佛教必有更盛于今日者祝諸君長足進步前途福利滿智記見海刊六卷十二期
+  hash: sha256:d2ef7641561fda229462cc0daad5ff9c808d5ea2aa9652e28b7a730b39e5f653
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0575_TX_036-juan-start, juan_n: '036'}
+metadata:
+  title: 太虛大師全書．第十八編　講演
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX27/TX27n0018.xml
+    old_id: TX27n0018
+hash: sha256:e560128fd3c7553d85e0d90ed705929c41d59f44333408c644242910d0f1ee28

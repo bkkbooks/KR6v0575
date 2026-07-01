@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0575/bkk/v1/markers/36
+seq: 36
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 應少女少年團之歡迎會答詞, id: KR6v0575_TX_036-mulu-1, level: '1'}
+  back: []
+hash: sha256:daaa4557a49736d95953c12e0f5fd2855bdda3683823bc4e00e1d37e809eabca
