@@ -27,7 +27,6 @@ markers:
   - {type: punctuation, offset: 65, content: ，, id: KR6v0575_TX_006-bkkpn13}
   - {type: line-break, offset: 80, content: '', id: KR6v0575_TX_006-b035a05, ed: TX, 'n': b035a05}
   - {type: punctuation, offset: 84, content: ，, id: KR6v0575_TX_006-bkkpn14}
-  - {type: substitution, offset: 84, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 103, content: 。, id: KR6v0575_TX_006-bkkpn15}
   - {type: punctuation, offset: 105, content: 、, id: KR6v0575_TX_006-bkkpn16}
   - {type: line-break, offset: 114, content: '', id: KR6v0575_TX_006-b035a06, ed: TX, 'n': b035a06}
@@ -46,11 +45,10 @@ markers:
   - {type: line-break, offset: 172, content: '', id: KR6v0575_TX_006-b035a08, ed: TX, 'n': b035a08}
   - {type: xml-element, offset: 172, content: '', id: pTX27pb035a0801, name: p, role: open, attrs: {'xml:id': pTX27pb035a0801, style: 'margin-left:6em;text-indent:-4em'}}
   - {type: punctuation, offset: 172, content: （, id: KR6v0575_TX_006-bkkpn25}
-  - {type: substitution, offset: 173, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 174, content: ）, id: KR6v0575_TX_006-bkkpn26}
   - {type: punctuation, offset: 177, content: 「, id: KR6v0575_TX_006-bkkpn27}
   - {type: punctuation, offset: 186, content: 」, id: KR6v0575_TX_006-bkkpn28}
   - {type: punctuation, offset: 189, content: 。, id: KR6v0575_TX_006-bkkpn29}
   - {type: xml-element, offset: 189, content: '', id: pTX27pb035a0801_end, name: p, role: close, attrs: {'xml:id': pTX27pb035a0801, style: 'margin-left:6em;text-indent:-4em'}}
   back: []
-hash: sha256:65f04950ef63287a9d8488e502ec9bce0263535a4500c9dc75de5f122523c7cb
+hash: sha256:7c01a9c01183a8fcb70a8145bdaedecccdb20cfb3f19acf201c3023fd8ea2612

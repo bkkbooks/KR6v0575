@@ -23,7 +23,6 @@ markers:
   - {type: punctuation, offset: 56, content: 。, id: KR6v0575_TX_037-bkkpn9}
   - {type: punctuation, offset: 67, content: ，, id: KR6v0575_TX_037-bkkpn10}
   - {type: punctuation, offset: 74, content: ，, id: KR6v0575_TX_037-bkkpn11}
-  - {type: substitution, offset: 76, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 78, content: 。, id: KR6v0575_TX_037-bkkpn12}
   - {type: line-break, offset: 84, content: '', id: KR6v0575_TX_037-b151a05, ed: TX, 'n': b151a05}
   - {type: punctuation, offset: 84, content: ，, id: KR6v0575_TX_037-bkkpn13}
@@ -124,7 +123,6 @@ markers:
   - {type: punctuation, offset: 439, content: 「, id: KR6v0575_TX_037-bkkpn83}
   - {type: punctuation, offset: 444, content: ，, id: KR6v0575_TX_037-bkkpn84}
   - {type: punctuation, offset: 449, content: ，, id: KR6v0575_TX_037-bkkpn85}
-  - {type: substitution, offset: 453, original: 籐, replacement: 藤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1550}}
   - {type: punctuation, offset: 454, content: ，, id: KR6v0575_TX_037-bkkpn86}
   - {type: punctuation, offset: 459, content: 」, id: KR6v0575_TX_037-bkkpn87}
   - {type: punctuation, offset: 459, content: 。, id: KR6v0575_TX_037-bkkpn88}
@@ -139,7 +137,6 @@ markers:
   - {type: line-break, offset: 470, content: '', id: KR6v0575_TX_037-b152a10, ed: TX, 'n': b152a10}
   - {type: xml-element, offset: 470, content: '', id: pTX27pb152a1001, name: p, role: open, attrs: {'xml:id': pTX27pb152a1001, style: 'margin-left:6em;text-indent:-4em'}}
   - {type: punctuation, offset: 470, content: （, id: KR6v0575_TX_037-bkkpn93}
-  - {type: substitution, offset: 471, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 472, content: ）, id: KR6v0575_TX_037-bkkpn94}
   - {type: punctuation, offset: 474, content: 「, id: KR6v0575_TX_037-bkkpn95}
   - {type: punctuation, offset: 482, content: 」, id: KR6v0575_TX_037-bkkpn96}
@@ -147,4 +144,4 @@ markers:
   - {type: punctuation, offset: 485, content: 。, id: KR6v0575_TX_037-bkkpn98}
   - {type: xml-element, offset: 485, content: '', id: pTX27pb152a1001_end, name: p, role: close, attrs: {'xml:id': pTX27pb152a1001, style: 'margin-left:6em;text-indent:-4em'}}
   back: []
-hash: sha256:be3f9d86ff95e64967c49f40256913d18452283e25aa01d0f7d70ed0b1ce60a3
+hash: sha256:a78bb41169477116774019b7259c551639218378f0f0163785276bd6ec84d61f

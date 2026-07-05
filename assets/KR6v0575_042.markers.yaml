@@ -51,7 +51,6 @@ markers:
   - {type: punctuation, offset: 166, content: ，, id: KR6v0575_TX_042-bkkpn34}
   - {type: punctuation, offset: 170, content: ，, id: KR6v0575_TX_042-bkkpn35}
   - {type: line-break, offset: 177, content: '', id: KR6v0575_TX_042-b166a08, ed: TX, 'n': b166a08}
-  - {type: substitution, offset: 178, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 180, content: ，, id: KR6v0575_TX_042-bkkpn36}
   - {type: punctuation, offset: 185, content: 。, id: KR6v0575_TX_042-bkkpn37}
   - {type: punctuation, offset: 188, content: ：, id: KR6v0575_TX_042-bkkpn38}
@@ -172,7 +171,6 @@ markers:
   - {type: line-break, offset: 718, content: '', id: KR6v0575_TX_042-b168a04, ed: TX, 'n': b168a04}
   - {type: xml-element, offset: 718, content: '', id: pTX27pb168a0401, name: p, role: open, attrs: {'xml:id': pTX27pb168a0401, style: 'margin-left:6em;text-indent:-4em'}}
   - {type: punctuation, offset: 718, content: （, id: KR6v0575_TX_042-bkkpn126}
-  - {type: substitution, offset: 719, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 720, content: ）, id: KR6v0575_TX_042-bkkpn127}
   - {type: punctuation, offset: 722, content: 「, id: KR6v0575_TX_042-bkkpn128}
   - {type: punctuation, offset: 731, content: 」, id: KR6v0575_TX_042-bkkpn129}
@@ -180,4 +178,4 @@ markers:
   - {type: punctuation, offset: 734, content: 。, id: KR6v0575_TX_042-bkkpn131}
   - {type: xml-element, offset: 734, content: '', id: pTX27pb168a0401_end, name: p, role: close, attrs: {'xml:id': pTX27pb168a0401, style: 'margin-left:6em;text-indent:-4em'}}
   back: []
-hash: sha256:17a6b81a43041a703ce479c2c3d62b172d98d9384759d11819ca466d0d35987c
+hash: sha256:81d5eb5227c78a23eb7095ade6bd75de500a1c19659f039b3091c2a2aaa44b72

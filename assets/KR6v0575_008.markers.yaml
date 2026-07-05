@@ -64,13 +64,10 @@ markers:
   - {type: line-break, offset: 310, content: '', id: KR6v0575_TX_008-b045a01, ed: TX, 'n': b045a01}
   - {type: punctuation, offset: 311, content: 、, id: KR6v0575_TX_008-bkkpn42}
   - {type: punctuation, offset: 314, content: 。, id: KR6v0575_TX_008-bkkpn43}
-  - {type: substitution, offset: 324, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 325, content: ，, id: KR6v0575_TX_008-bkkpn44}
-  - {type: substitution, offset: 328, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 333, content: ，, id: KR6v0575_TX_008-bkkpn45}
   - {type: punctuation, offset: 337, content: 。, id: KR6v0575_TX_008-bkkpn46}
   - {type: line-break, offset: 342, content: '', id: KR6v0575_TX_008-b045a02, ed: TX, 'n': b045a02}
-  - {type: substitution, offset: 342, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 349, content: ，, id: KR6v0575_TX_008-bkkpn47}
   - {type: punctuation, offset: 364, content: 。, id: KR6v0575_TX_008-bkkpn48}
   - {type: punctuation, offset: 373, content: ，, id: KR6v0575_TX_008-bkkpn49}
@@ -85,7 +82,6 @@ markers:
   - {type: punctuation, offset: 434, content: ，, id: KR6v0575_TX_008-bkkpn56}
   - {type: punctuation, offset: 439, content: ，, id: KR6v0575_TX_008-bkkpn57}
   - {type: line-break, offset: 442, content: '', id: KR6v0575_TX_008-b045a05, ed: TX, 'n': b045a05}
-  - {type: substitution, offset: 442, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 450, content: 。, id: KR6v0575_TX_008-bkkpn58}
   - {type: punctuation, offset: 459, content: ，, id: KR6v0575_TX_008-bkkpn59}
   - {type: punctuation, offset: 463, content: ，, id: KR6v0575_TX_008-bkkpn60}
@@ -126,7 +122,6 @@ markers:
   - {type: punctuation, offset: 635, content: ，, id: KR6v0575_TX_008-bkkpn89}
   - {type: punctuation, offset: 641, content: ，, id: KR6v0575_TX_008-bkkpn90}
   - {type: punctuation, offset: 645, content: ；, id: KR6v0575_TX_008-bkkpn91}
-  - {type: substitution, offset: 647, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 651, content: ，, id: KR6v0575_TX_008-bkkpn92}
   - {type: punctuation, offset: 655, content: ，, id: KR6v0575_TX_008-bkkpn93}
   - {type: punctuation, offset: 662, content: ，, id: KR6v0575_TX_008-bkkpn94}
@@ -144,7 +139,6 @@ markers:
   - {type: line-break, offset: 699, content: '', id: KR6v0575_TX_008-b046a02, ed: TX, 'n': b046a02}
   - {type: xml-element, offset: 699, content: '', id: pTX27pb046a0201, name: p, role: open, attrs: {'xml:id': pTX27pb046a0201, style: 'margin-left:6em;text-indent:-4em'}}
   - {type: punctuation, offset: 699, content: （, id: KR6v0575_TX_008-bkkpn100}
-  - {type: substitution, offset: 700, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 701, content: ）, id: KR6v0575_TX_008-bkkpn101}
   - {type: punctuation, offset: 703, content: 「, id: KR6v0575_TX_008-bkkpn102}
   - {type: punctuation, offset: 709, content: 」, id: KR6v0575_TX_008-bkkpn103}
@@ -152,4 +146,4 @@ markers:
   - {type: punctuation, offset: 712, content: 。, id: KR6v0575_TX_008-bkkpn105}
   - {type: xml-element, offset: 712, content: '', id: pTX27pb046a0201_end, name: p, role: close, attrs: {'xml:id': pTX27pb046a0201, style: 'margin-left:6em;text-indent:-4em'}}
   back: []
-hash: sha256:d0810b1adb2a4feffe92f0a064f13e7a710ddb29f13bae55543259cb8a102f94
+hash: sha256:1bf66d9d25d1749e1cdbe0f4c4357dd1cad1440a7903845581dde43839991d66
